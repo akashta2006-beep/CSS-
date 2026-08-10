@@ -1,3 +1,10 @@
 h1{
     color:red;
 }
+button{
+    color:yellow;
+    background-color:black;
+}
+body{
+    background-color:rgba(12, 2, 52, 0.308);
+}
