@@ -1,22 +1,4 @@
 h1{
-    color:red;
-}
-button{
-    color:yellow;
-    background-color:black;
-}
-body{
-    background-color:rgba(12, 2, 52, 0.308);
-}
-#h1{
-    text-align:right;
-}
-#style{
-    font-weight:455;
-    text-decoration:underline;
-    font-style:italic;
-}
-a{
-    color:blue;
-    text-decoration:none;
+    text-align:centre;
+    text-transform:capitalize;
 }
